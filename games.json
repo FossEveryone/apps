@@ -1,0 +1,10 @@
+{
+  "id": "fosseveryone:games",
+  "name": "First Party Games",
+  "apps": [
+    {
+      "id": "dino",
+      "manifest_url": "https://www.chapp.io/dino/manifest.json"
+    }
+  ]
+}
