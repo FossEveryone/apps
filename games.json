@@ -3,7 +3,7 @@
   "name": "First Party Games",
   "apps": [
     {
-      "id": "dino",
+      "id": "chapp.io/dino",
       "manifest_url": "https://www.chapp.io/dino/manifest.json"
     }
   ]
