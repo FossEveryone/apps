@@ -5,6 +5,10 @@
     {
       "id": "chapp.io/dino",
       "manifest_url": "https://www.chapp.io/dino/manifest.json"
+    },
+    {
+      "id": "spotify.com/spotify",
+      "app_url": "https://open.spotify.com"
     }
   ]
 }
